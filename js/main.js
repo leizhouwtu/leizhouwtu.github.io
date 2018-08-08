@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $('body').removeClass('no-js');
 
-  $('.navigation-wrapper a').click(function() {
+  $('.navigation-wrapper .cover-navigation--primary a').click(function() {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return;
     currentWidth = $('.panel-cover').width();
     if (currentWidth < 960) {
@@ -39,7 +39,7 @@ $(document).ready(function() {
     $('.btn-mobile-menu__icon').toggleClass('fa fa-list fa fa-angle-up animated fadeIn');
   });
 
-  $('.navigation-wrapper a').click(function() {
+  $('.navigation-wrapper .cover-navigation--primary a').click(function() {
     if ($('.navigation-wrapper').css('display') == "block") {
       $('.navigation-wrapper').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
         $('.navigation-wrapper').toggleClass('visible animated bounceOutUp');

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>雷洲</title>
   
-  
-  <link href="/atom.xml" rel="self"/>
+  <subtitle>【leizhouwtu】</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2018-08-07T08:22:30.754Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>leizhouwtu</name>
     
   </author>
   

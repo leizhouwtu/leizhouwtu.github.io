@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Leizhouwtu</title>
+  <title>Hexo</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="leizhouwtu.github.io.git/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2018-08-07T08:22:30.754Z</updated>
-  <id>leizhouwtu.github.io.git/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name>雷洲</name>
+    <name>John Doe</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="leizhouwtu.github.io.git/2018/08/07/hello-world/"/>
-    <id>leizhouwtu.github.io.git/2018/08/07/hello-world/</id>
+    <link href="http://yoursite.com/2018/08/07/hello-world/"/>
+    <id>http://yoursite.com/2018/08/07/hello-world/</id>
     <published>2018-08-07T08:22:30.753Z</published>
     <updated>2018-08-07T08:22:30.754Z</updated>
     
